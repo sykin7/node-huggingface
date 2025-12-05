@@ -120,7 +120,7 @@ jobs:
           
           ### 📝 Environment Variables
           - `UUID` - User UUID
-          - `PORT` - Server port (default: 3000)
+          - `PORT` - Server port (default: 5239)
           - `DOMAIN` - Domain name
           - `NAME` - Custom server name
           - `WSPATH` - WebSocket path
